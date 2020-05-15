@@ -1,2 +1,2 @@
 # Data-Science-With-Python-on-DataCamp
-Certificates and projects completed while taking the data science with Python career track on DataCamp
+Certificates received for completing the data science with Python career track courses on DataCamp
